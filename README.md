@@ -5,26 +5,12 @@
 This project is a simple animated button created using only **HTML and CSS**.
 When the user hovers over the button, it becomes slightly bigger and rotates a little to create a smooth interactive effect.
 
----
-
-## Features
-
-- Smooth hover animation
-- Button scales on hover
-- Slight rotate effect
-- Clean and modern design
-- Easy to customize
-
----
-
 ## Technologies Used
 
 - HTML5
 - CSS3
 - CSS Transitions
 - CSS Transform
-
----
 
 ## What I Learned
 
