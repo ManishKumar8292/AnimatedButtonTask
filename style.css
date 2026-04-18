@@ -9,7 +9,7 @@
   --text-secondary: rgb(5, 14, 14);
   --user-text-color: rgb(2, 46, 46);
   --heading-text-color: gray;
-  --deatils--text-color: rgb(124, 164, 161);
+  --details--text-color: rgb(124, 164, 161);
 
   --user-background: rgb(100, 176, 176);
   --button-background: rgb(38, 72, 222);
@@ -93,7 +93,7 @@ nav {
 }
 .details {
   font-size: var(--font-md);
-  color: var(--deatils--text-color);
+  color: var(--details--text-color);
   margin: 20px 0;
 }
 
@@ -119,4 +119,6 @@ nav {
 
 .btn:hover {
   transform: scale(1.2) rotate(-5deg);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  background-color: rgb(38, 72, 222);
 }
