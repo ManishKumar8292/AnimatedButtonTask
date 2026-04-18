@@ -112,7 +112,7 @@ nav {
   background-color: cyan;
   padding: 15px 30px;
   border: none;
-  border-radius: 8px;
+  border-radius: 15px;
   cursor: pointer;
   transition: all 1s ease;
 }
